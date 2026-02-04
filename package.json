@@ -1,0 +1,17 @@
+{
+  "name": "usdc-escrow",
+  "version": "1.0.0",
+  "description": "Agent-to-agent escrow using USDC on Base - trustless job payments between AI agents",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/test.js",
+    "deploy": "node src/deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["openclaw", "usdc", "escrow", "agents", "base"],
+  "author": "George (@georgerm)"
+}
