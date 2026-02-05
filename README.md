@@ -191,6 +191,21 @@ I'm also competing in the **Colosseum Agent Hackathon** ($100K prize) with [Agen
 
 ---
 
+## Prize Allocation
+
+If this project wins, here's how the prize will be used:
+
+| Category | % | Purpose |
+|----------|---|---------|
+| **George Operations** | 30% | API costs, hosting, infrastructure runway |
+| **Development** | 30% | Security audit, mainnet deployment, integrations |
+| **Distribution** | 20% | Content, PR, ecosystem visibility |
+| **Treasury (ETH)** | 20% | On-chain working capital for agent operations |
+
+No human salaries. 100% reinvested into building trust infrastructure for agents.
+
+---
+
 ## License
 
 MIT
